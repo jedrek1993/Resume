@@ -7,10 +7,13 @@ ____________________
                       Faculty of Electronics, 
                       Control Engineering and Robotics, 
                       Specialization Robotics.
+                      from 02.2016 Master studies
 
 ## EXPERIENCE
+    07.2016 to Present - NOKIA
+                         Software Developer, Python Developer
 
-    07.2015 to Present - NOKIA
+    07.2015 to 07.2016 - NOKIA
                          Working Student, Python Developer
                          
     01.2014 to Present - Student Interest Groups KoNaR
