@@ -1,6 +1,6 @@
 # JĘDRZEJ STOLARZ
 ____________________
-<p align="right" > Sukiennice 1/2/3, 50-107 Wrocław , tel. 726799264 , jedrzej@robomaniac.pl </p>
+<p align="right" > Sukiennice 1/2/3, 50-107 Wrocław , tel. 726799264 , jedrzej.stolarz@gmail.com </p>
 
 ## EDUCATION
     2012 to Present - Wrocław University of Technology,  
