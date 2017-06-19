@@ -1,6 +1,6 @@
 # JĘDRZEJ STOLARZ
 ____________________
-<p align="right" > Sukiennice 1/2/3, 50-107 Wrocław , tel. 726799264 , jedrzej.stolarz@gmail.com </p>
+<p align="right" > jedrzej.stolarz@gmail.com </p>
 
 ## EDUCATION
     2012 to Present - Wrocław University of Technology,  
@@ -17,4 +17,4 @@ ____________________
                          Working Student, Python Developer
                          
     01.2014 to Present - Student Interest Groups KoNaR
-                         from 12.2015 Member of the board
+                         from 12.2015 to 01.2017 Member of the board
